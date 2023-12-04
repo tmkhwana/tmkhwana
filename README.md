@@ -30,7 +30,8 @@ On a mission to turn coding challenges into fun-filled learning adventures.
   <p> Excited to collaborate, learn, and maybe share a coding snack or two.
    This journey is beginner-friendly – I'm just trying to have some coding fun!</p>
 
-Fun fact **I'm the silent charm in the room, rocking a combo of quiet vibes, undeniable prettiness, and a laugh that's on a perpetual joy ride! 🤫💁‍♀️😄**
+<h4>💖 Fun fact</h4> 
+  <p> I'm the silent charm in the room, rocking a combo of quiet vibes, undeniable prettiness, and a laugh that's on a perpetual joy ride! 🤫💁‍♀️😄</p>
 
 Check out the tech stacks I've tamed below and let's make some digital magic! 🎩💻
 
