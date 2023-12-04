@@ -2,9 +2,34 @@
 
 <!-- INTRO -->
 <h1 align="center">Hi 👋, I'm Thembile Mkhwanazi</h1>
-<h3 align="center">An enthusiastic code dynamo hailing from the vibrant tech beats of Johannesburg, South Africa! 🚀💻</h3>
+<h3 align="center">🚀 Welcome to My Code Haven! 🚀</h3>
 
-- ⚡ Fun fact **I'm the silent charm in the room, rocking a combo of quiet vibes, undeniable prettiness, and a laugh that's on a perpetual joy ride! 🤫💁‍♀️😄**
+<h4> 👨‍💻 About Me</h4>
+
+Java Developer extraordinaire with a passion for crafting clean, maintainable, and downright awesome code.
+Part-time detective – solving system mysteries one line of code at a time.
+On a mission to turn coding challenges into fun-filled learning adventures.
+
+<h4>🛠️ Tech Novice Turned Wizardry Apprentice</h4>
+ <p> Brewing solutions for business puzzles while mastering the art of code spellcasting.
+  Translating business requirements into code language, complete with training wheels.</p>
+
+<h4>🔍 Detective in Training</h4>
+  <p> Solving system puzzles like a detective with a starter kit magnifying glass.
+   Logging issues with the enthusiasm of a junior prospector discovering digital gold</p>
+
+<h4>📈 Learning Rollercoaster</h4>
+  <p> Riding the continuous learning rollercoaster, getting better with each loop.
+   Watch this space for upcoming rollercoaster-worthy experimental projects!
+   Monitoring performance, tweaking, and fine-tuning – because perfection is a journey, not a destination.</p>
+
+<h4>⚡ Join Me on this Coding Adventure!</h4>
+  <p> Excited to collaborate, learn, and maybe share a coding snack or two.
+   This journey is beginner-friendly – I'm just trying to have some coding fun!</p>
+
+Fun fact **I'm the silent charm in the room, rocking a combo of quiet vibes, undeniable prettiness, and a laugh that's on a perpetual joy ride! 🤫💁‍♀️😄**
+
+Check out the tech stacks I've tamed below and let's make some digital magic! 🎩💻
 
 <!-- SCRIPT WRITING -->
  <p align="center" style="background: #1c1c1c;">  
