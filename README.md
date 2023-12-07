@@ -47,7 +47,8 @@ Check out the tech stacks I've tamed below and let's make some digital magic! ðŸ
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tmkhwana&label=Profile%20views&color=0e75b6&style=flat" alt="tmkhwana" /> </p>
 
 <!-- MOST USED LANGUAGES -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tmkhwana&show_icons=true&locale=en&layout=compact" alt="tmkhwana" /></p>
+<a href="https://github.com/tmkhwana/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmkhwana&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 
 
 
