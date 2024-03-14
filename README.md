@@ -12,7 +12,7 @@ On a mission to turn coding challenges into fun-filled learning adventures.
 
 <h4>🛠️ Tech Novice Turned Wizardry Apprentice</h4>
  <p> Brewing solutions for business puzzles while mastering the art of code spellcasting.
-  Translating business requirements into code language, complete with training wheels.</p>
+  Translating business requirements into code language, complete with training wheels</p>
 
 <h4>🔍 Detective in Training</h4>
   <p> Solving system puzzles like a detective with a starter kit magnifying glass.
