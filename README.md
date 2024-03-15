@@ -27,7 +27,7 @@ On a mission to turn coding challenges into fun-filled learning adventures.
   <p> Dive into my projects – these were crafted during my learning journey!</p>
 
 <h4>⚡ Join Me on this Coding Adventure!</h4>
-  <p> Excited to collaborate, learn, and maybe share a coding snack or two.
+  <p> Excited to collaborate, learn, and maybe share a coding snack or two
    This journey is beginner-friendly – I'm just trying to have some coding fun!</p>
 
 <h4>💖 Fun fact</h4> 
