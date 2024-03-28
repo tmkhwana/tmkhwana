@@ -16,7 +16,7 @@ On a mission to turn coding challenges into fun-filled learning adventures.
 
 <h4>🔍 Detective in Training</h4>
   <p> Solving system puzzles like a detective with a starter kit magnifying glass.
-   Logging issues with the enthusiasm of a junior prospector discovering digital gold</p>
+   Logging issues with the enthusiasm of a junior prospector discovering digital gold.</p>
 
 <h4>📈 Learning Rollercoaster</h4>
   <p> Riding the continuous learning rollercoaster, getting better with each loop.
