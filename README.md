@@ -6,7 +6,7 @@
 
 <h4> 👨‍💻 About Me</h4>
 
-Java Developer extraordinaire with a passion for crafting clean, maintainable, and downright awesome code.
+Java Developer with a passion for crafting clean, maintainable, and downright awesome code.
 Part-time detective – solving system mysteries one line of code at a time.
 On a mission to turn coding challenges into fun-filled learning adventures.
 
