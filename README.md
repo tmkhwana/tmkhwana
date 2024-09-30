@@ -6,16 +6,17 @@
 
 <h4> 👨‍💻 About Me</h4>
 
-Java Developer with a passion for crafting clean, maintainable, and downright awesome code.
-Part-time detective – solving system mysteries one line of code at a time.
-On a mission to turn coding challenges into fun-filled learning adventures.
+Hey! I'm a Java Developer navigating my way in the world of code. 
+I’m passionate about learning how to write cleaner, more maintainable code. 
+When I'm not coding, I'm figuring out little system quirks – like a rookie detective trying to solve tech mysteries. 
+Coding for me is all about having fun and growing.
 
 <h4>🛠️ Tech Novice Turned Wizardry Apprentice</h4>
- <p> Brewing solutions for business puzzles while mastering the art of code spellcasting.
-  Translating business requirements into code language, complete with training wheels</p>
+ <p> I’m still learning the ropes but loving every minute of it. 
+  Slowly translating business challenges into code and making sure to take it one small step at a time.</p>
 
 <h4>🔍 Detective in Training</h4>
-  <p> Solving system puzzles like a detective with a starter kit magnifying glass.
+  <p> Solving system puzzles like a detective with a starter kit magnifying glass (lol, okay maybe a virtual one).
    Logging issues with the enthusiasm of a junior prospector discovering digital gold.</p>
 
 <h4>📈 Learning Rollercoaster</h4>
