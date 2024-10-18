@@ -31,9 +31,6 @@ Coding for me is all about having fun and growing.
   <p> I’m here to collaborate, learn new things, and maybe share a few fun coding moments. 
    Whether you’re new to coding or just want to share a snack, this adventure is beginner-friendly!</p>
 
-<h4>💖 Fun fact</h4> 
-  <p> I'm the silent charm in the room, rocking a combo of quiet vibes, undeniable prettiness, and a laugh that's on a perpetual joy ride! 🤫💁‍♀️😄</p>
-
 Take a look at the tech stacks I’m playing with below and let's create some cool things together! 🎩💻
 
 <!-- SCRIPT WRITING -->
