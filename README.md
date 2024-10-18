@@ -2,11 +2,10 @@
 
 <!-- INTRO -->
 <h1 align="center">Hi 👋, I'm Thembile Mkhwanazi</h1>
-<h3 align="center">🚀 Welcome to My Code Haven! 🚀</h3>
 
 <h4> 👨‍💻 About Me</h4>
 
-Hey! I'm a Java Developer navigating my way in the world of code. 
+I'm a Developer navigating my way in the world of code. 
 I’m passionate about learning how to write cleaner, more maintainable code. 
 When I'm not coding, I'm figuring out little system quirks – like a rookie detective trying to solve tech mysteries. 
 Coding for me is all about having fun and growing.
